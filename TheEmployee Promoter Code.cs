@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace The_Employee_Promoter_App
 {
+   
    public delegate bool Promoter(Staff stf); //(declaration of the delegate)
     public class Staff
     {
